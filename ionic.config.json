@@ -1,0 +1,7 @@
+{
+  "name": "gripGolf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
